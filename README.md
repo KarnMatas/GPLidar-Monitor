@@ -1,2 +1,2 @@
 # GPLidar-Monitor
-The assignment for job application.
+The assignments for job application.
